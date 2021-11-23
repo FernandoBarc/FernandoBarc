@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FernandoBarc
 - 👀 I’m interested in IoT, Embedded Software and Web Development
-- 🌱 I’m currently learning WEB
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on any Hardware project that needs some coding or circuit design 
 - 📫 Contact me @ https://www.linkedin.com/in/fernando-barcelata-iec/
 
